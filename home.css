@@ -126,3 +126,14 @@
 .banner-btn:hover{
     background: red;
 }
+.menu{
+    height: 20px;
+    color: #fff;
+    padding-right: 10px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
